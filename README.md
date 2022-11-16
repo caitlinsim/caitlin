@@ -1,4 +1,4 @@
-### Hi there 👋
+### <a href="caitlinsim.github.io/resume">Resume</a>
 
 <!--
 **caitlinsim/caitlinsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
